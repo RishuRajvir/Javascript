@@ -1,0 +1,1 @@
+console.log("Risu 0");
